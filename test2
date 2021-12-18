@@ -1,5 +1,5 @@
 
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/awboyboy/SILENT-AIM-FOV/main/test"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/awboyboy/SILENT-AIM-FOV/main/test2"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
